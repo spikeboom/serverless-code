@@ -2,7 +2,7 @@
 node_modules
 jspm_packages
 frontend/node_modules
-frontend/.git
+frontend
 
 # Serverless directories
 .serverless
